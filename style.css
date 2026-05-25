@@ -31,6 +31,11 @@ body {
 #list-levels {
 	margin: 50px 0;
 }
+#bottom-notice {
+	color: #b0b0b0;
+	font-size: 16px;
+	text-align: center;
+}
 .level-container {
 	border-width: 2px;
 	border-color: #363636;
