@@ -74,7 +74,12 @@ body {
 	font-weight: normal;
 	text-align: center;
 }
-@media screen and (max-width: 800px){
+@media screen and (max-width: 1200px){
+	#list-container {
+		width: 75vw;
+	}
+}
+@media screen and (max-width: 960px){
 	#list-container {
 		width: 96vw;
 		margin: 10px auto;
